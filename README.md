@@ -1,2 +1,0 @@
-# faithdog
-Home
